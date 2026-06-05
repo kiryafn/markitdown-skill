@@ -5,7 +5,7 @@ Claude Code skill that converts binary and token-heavy files (PDF, DOCX, PPTX, X
 ## Install
 
 ```bash
-claude plugins add github:YOUR_USERNAME/markitdown-skill
+claude plugins add github:kiryafn/markitdown-reader
 ```
 
 ## Prerequisites
